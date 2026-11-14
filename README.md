@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🤖 AstrBot
+# 🤖 Astro Bot
 
 **An open-source, all-in-one Agent chatbot platform for mainstream instant messaging apps.**
 
